@@ -1,14 +1,12 @@
 {
   "chainId": 101,
-  "address": "ERPa5X7aGB92owvqzYW33gKqCFgnmXPMA2V23U85UmHG",
+  "address": "7aboBmqrS4oQC2BposSJxAy9ZVvrLKVQgc34b6HGwvUf",
   "symbol": "SK",
   "name": "Shopkeeper",
   "decimals": 4,
-  "logoURI": "https://raw.githubusercontent.com/stendy878/NEW-token/main/ERPa5X7aGB92owvqzYW33gKqCFgnmXPMA2V23U85UmHG.png",
+  "logoURI": "https://raw.githubusercontent.com/stendy878/solana-token-images/main/7aboBmqrS4oQC2BposSJxAy9ZVvrLKVQgc34b6HGwvUf.png",
   "tags": ["utility-token"],
   "extensions": {
-    "website": "https://your-website.com",
-    "twitter": "https://twitter.com/yourtwitter",
-    "description": "Your token description here."
-  }
+  "website": "https://storekeeper.blog",
+  "description": "Shopkeeper (SK) is a utility token for trading and gaming on Solana."
 }
